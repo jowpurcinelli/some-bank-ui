@@ -1,2 +1,5 @@
-# some-bankUI
-Project to implement an interface for a bank
+Bank interface for studies purposes.
+
+
+
+TypeScript
